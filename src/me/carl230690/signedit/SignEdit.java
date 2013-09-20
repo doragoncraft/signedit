@@ -1,6 +1,5 @@
 package me.carl230690.signedit;
 
-import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -49,6 +48,10 @@ public class SignEdit extends JavaPlugin {
 		pluginMan.registerEvents(listener, this);
 
 		getCommand("signedit").setExecutor(new CommandSignEdit(this));
+	} finally {
+		
+	}
+		
 	}
 
 	@Override

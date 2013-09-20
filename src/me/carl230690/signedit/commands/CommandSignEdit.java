@@ -2,11 +2,11 @@ package me.carl230690.signedit.commands;
 
 import java.util.logging.Level;
 
-import me.carl230690.SignEdit;
+import me.carl230690.signedit.SignEdit;
 import me.carl230690.signedit.data.LogType;
-import me.carl230690.data.SignEditDataPackage;
-import me.carl230690.data.SignFunction;
-import me.carl230690.utils.SignEditUtils;
+import me.carl230690.signedit.data.SignEditDataPackage;
+import me.carl230690.signedit.data.SignFunction;
+import me.carl230690.signedit.utils.SignEditUtils;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
