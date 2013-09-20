@@ -54,4 +54,3 @@ public class SignEdit extends JavaPlugin {
 	@Override
 	public void onDisable() {}
 }
-//hh
